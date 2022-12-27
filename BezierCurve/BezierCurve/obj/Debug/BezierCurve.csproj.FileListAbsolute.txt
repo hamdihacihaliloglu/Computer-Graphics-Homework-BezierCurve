@@ -1,0 +1,9 @@
+C:\Users\Hamdi\source\repos\BezierCurve\BezierCurve\bin\Debug\BezierCurve.exe
+C:\Users\Hamdi\source\repos\BezierCurve\BezierCurve\bin\Debug\BezierCurve.pdb
+C:\Users\Hamdi\source\repos\BezierCurve\BezierCurve\obj\Debug\BezierCurve.csproj.AssemblyReference.cache
+C:\Users\Hamdi\source\repos\BezierCurve\BezierCurve\obj\Debug\BezierCurve.Form1.resources
+C:\Users\Hamdi\source\repos\BezierCurve\BezierCurve\obj\Debug\BezierCurve.Properties.Resources.resources
+C:\Users\Hamdi\source\repos\BezierCurve\BezierCurve\obj\Debug\BezierCurve.csproj.GenerateResource.cache
+C:\Users\Hamdi\source\repos\BezierCurve\BezierCurve\obj\Debug\BezierCurve.csproj.CoreCompileInputs.cache
+C:\Users\Hamdi\source\repos\BezierCurve\BezierCurve\obj\Debug\BezierCurve.exe
+C:\Users\Hamdi\source\repos\BezierCurve\BezierCurve\obj\Debug\BezierCurve.pdb
